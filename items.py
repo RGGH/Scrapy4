@@ -19,3 +19,5 @@ class CraigslistItem(scrapy.Item):
     hood = scrapy.Field()
     link = scrapy.Field()
     misc = scrapy.Field()
+    lon = scrapy.Field()
+    lat = scrapy.Field()
