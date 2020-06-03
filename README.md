@@ -5,4 +5,6 @@ Both spiders (realestate.py AND realestate_loader.py) collect the same data - th
 
 realestate_loader_with_geo.py gathers Lon and Lat as well - * work in progress *
 
-Misc/blob/master/CL2-banner-978.png
+
+
+<img src="Misc/blob/master/CL2-banner-978.png" style="margin: 0 auto;">
