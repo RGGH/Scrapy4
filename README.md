@@ -7,4 +7,4 @@ realestate_loader_with_geo.py gathers Lon and Lat as well - * work in progress *
 
 
 
-<img src="Misc/blob/master/CL2-banner-978.png" style="margin: 0 auto;">
+<img src="https://github.com/RGGH/Misc/blob/master/CL2-banner-978.png" style="margin: 0 auto;">
