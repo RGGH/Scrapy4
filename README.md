@@ -1,5 +1,5 @@
 # Scrapy4
-Craigslist Real Estate
+<b>Craigslist Real Estate</b>
 
 Both spiders (realestate.py AND realestate_loader.py) collect the same data - the point is to show how they differ but do the same job.
 
