@@ -7,6 +7,8 @@ realestate_loader_with_geo.py gathers Longitude and Latitude as well.
 
 Read the full explanation of the code at : https://redandgreen.co.uk/scrapy-yield/
 
+Video : https://youtu.be/3A36TOm7NC8
+
 
 
 <img src="https://github.com/RGGH/Misc/blob/master/CL2-banner-978.png" style="margin: 0 auto;">
